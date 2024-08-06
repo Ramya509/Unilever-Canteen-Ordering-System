@@ -107,8 +107,8 @@ Unilever's UK office canteens face overcrowding during lunch hours, leading to s
 
 ## Diagrams
 ### As-Is and To-Be Process Maps
-![As-Is Process Flowchart](images/image.png)
-![As-Is Process Flowchart](images/image.png)
+![As-Is Process Flowchart](images/As-is.png)
+![As-Is Process Flowchart](images/Future.png)
 
 ### Context Diagram
 (Scope of the system)
